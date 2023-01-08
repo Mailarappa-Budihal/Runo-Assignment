@@ -1,0 +1,29 @@
+{
+    "name": "runo-assignment-",
+    "version": "1.0.0",
+    "description": "Rono Backend Assignment",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mailarappa-Budihal/Runo-Assignment-.git"
+    },
+    "author": "Mailarappa",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Mailarappa-Budihal/Runo-Assignment-/issues"
+    },
+    "homepage": "https://github.com/Mailarappa-Budihal/Runo-Assignment-#readme",
+    "dependencies": {
+        "axios": "^1.2.2",
+        "bcrypt": "^5.1.0",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.0",
+        "moment": "^2.29.4",
+        "mongoose": "^6.8.3",
+        "nodemon": "^2.0.20"
+    }
+}
